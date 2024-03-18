@@ -1,11 +1,11 @@
 build:
-    version: "1.2"
+    version: "2.0"
 
 cards:
     message: "Welcome to YourBank Cards related QA APIs "
     contactDetails:
         name: "Rupam Dutta - QA Lead"
-        email: "rupamdutta@yourbank.com"
+        email: "{cipher}6cd3a277ef723c28fd6dfc61bd15ce51900d1aa9dd30572f130b1b6587613474da8323eb6be5f15c34f6a9159d7a6c4f"
     onCallSupport:
         - (666) 265-3765
         - (666) 734-8371

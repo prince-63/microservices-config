@@ -5,7 +5,7 @@ loans:
     message: "Welcome to YourBank loans related local APIs"
     contactDetails:
         name: "Golam Zaid - Developer"
-        email: "golamzaid@yourbank.com"
+        email: "{cipher}5bff7ac49213d663102def5327ef9fb2e00bfda96d9b1e958ac8f56824450d40d926e759f88aea825eff9892ae4eaa8a"
     onCallSupport:
         - (555) 555-1234
         - (555) 523-1345
