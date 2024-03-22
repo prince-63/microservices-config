@@ -2,7 +2,7 @@ build:
     version: "3.0"
 
 loans:
-    message: "Welcome to YourBank loans related prod APIs "
+    message: "Welcome to YourBank loans related production APIs "
     contactDetails:
         name: "Rupankar - Product Owner"
         email: "{cipher}086c04b08594dd98a1a34f5bea5dffa14358f0d234900d583f6d75c15ddadb39d8dd65bad03daadf4f028050729fd7a3"
